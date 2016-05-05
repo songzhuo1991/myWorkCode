@@ -49,9 +49,14 @@
 //    return self;
 //}
 
+
+
+
 - (BOOL)pointInside:(CGPoint)point withEvent:(UIEvent *)event{
     CGPoint btnP = [self convertPoint:point toView:_whiteView];
     if ([_whiteView pointInside:btnP withEvent:event]) {
+        
+        
         return YES;
     }else{
     return [super pointInside:point withEvent:event];
