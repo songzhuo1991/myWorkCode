@@ -48,6 +48,7 @@
 //    }
 //    return self;
 //}
+
 - (BOOL)pointInside:(CGPoint)point withEvent:(UIEvent *)event{
     CGPoint btnP = [self convertPoint:point toView:_whiteView];
     if ([_whiteView pointInside:btnP withEvent:event]) {
