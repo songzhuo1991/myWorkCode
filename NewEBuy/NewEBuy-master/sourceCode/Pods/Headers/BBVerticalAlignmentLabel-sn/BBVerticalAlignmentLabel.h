@@ -1,1 +1,0 @@
-../../BBVerticalAlignmentLabel-sn/Classes/BBVerticalAlignmentLabel.h

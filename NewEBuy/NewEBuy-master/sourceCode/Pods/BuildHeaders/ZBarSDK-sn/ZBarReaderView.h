@@ -1,1 +1,0 @@
-../../ZBarSDK-sn/zbar/headers/ZBarReaderView.h

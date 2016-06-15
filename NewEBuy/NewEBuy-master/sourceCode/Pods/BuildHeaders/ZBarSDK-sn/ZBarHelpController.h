@@ -1,1 +1,0 @@
-../../ZBarSDK-sn/zbar/headers/ZBarHelpController.h

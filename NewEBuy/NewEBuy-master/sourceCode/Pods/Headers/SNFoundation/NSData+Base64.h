@@ -1,1 +1,0 @@
-../../SNFoundation/SNFoundation/NSData+Base64.h
